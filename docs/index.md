@@ -6,6 +6,9 @@
 
 # WeekdaySpanishElections
 
+* Source data: [Wikipedia: Anexo:Elecciones en España](https://es.wikipedia.org/wiki/Anexo:Elecciones_en_Espa%C3%B1a)
+* [Processed data](https://github.com/carlosvega/Weekday_ESP_Elections/blob/master/dates.txt) 
+
 ```
   3 Lunes
   6 Viernes
