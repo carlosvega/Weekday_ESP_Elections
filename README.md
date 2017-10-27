@@ -24,8 +24,21 @@
 110 Domingo 
 ```
 
-# Data
+# Clone the repository
 
+* System Pre-Requirements: Linux or Mac OS X with Python3 and pip3
+
+```
+git clone https://github.com/carlosvega/Weekday_ESP_Elections.git esp_elections
+cd esp_elections
+pip install virtualenv
+virtualenv .env
+source activate .env/bin/activate
+pip3 install -r requirements.txt
+jupyter notebook #and then open the file Charts.ipynb
+```
+
+# Data
 
 ## Cortes de Cádiz
 
