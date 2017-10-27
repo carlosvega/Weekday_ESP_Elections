@@ -1,3 +1,7 @@
+<p align="right">
+  Visualization available at: http://research.cvega.es/elections/
+</p>
+
 # WeekdaySpanishElections
 
 ```
