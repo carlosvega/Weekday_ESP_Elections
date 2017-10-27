@@ -1,4 +1,14 @@
-# WeekdaySpanishElections
+<p align="right">
+  Also available at: <a href="https://carlosvega.github.io/Weekday_ESP_Elections/">https://carlosvega.github.io/Weekday_ESP_Elections/</a>
+</p>
+
+<p align="right">
+  Visualization available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
+</p>
+
+![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
+
+# Weekday Stats about Spanish Elections
 
 ```
   3 Lunes
