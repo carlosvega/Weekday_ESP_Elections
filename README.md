@@ -13,7 +13,7 @@
 # Data
 
 
-## Cortes de Cádiz
+## Cortes de Cádiz
 
 1810 - ?
 
@@ -175,7 +175,7 @@ Domingo 18 de junio del año 2006 | 18/06/2006
 
 Domingo 18 de febrero del año 2007 | 18/02/2007
 
-### Parlamento Europeo
+### Parlamento Europeo
 
 Miércoles 10 de junio del año 1987 | 10/06/1987
 
@@ -191,7 +191,7 @@ Domingo 07 de junio del año 2009 | 07/06/2009
 
 Domingo 25 de mayo del año 2014 | 25/05/2014
 
-### Elecciones generales
+### Elecciones generales
 
 Miércoles 15 de junio del año 1977 | 15/06/1977
 
@@ -219,7 +219,7 @@ Domingo 20 de diciembre del año 2015 | 20/12/2015
 
 Domingo 26 de junio del año 2016 | 26/06/2016
 
-### Elecciones autonómicas
+### Elecciones autonómicas
 
 Domingo 09 de marzo del año 1980 | 09/03/1980
 
@@ -341,7 +341,7 @@ Domingo 22 de mayo del año 2011 | 22/05/2011
 
 Domingo 24 de mayo del año 2015 | 24/05/2015
 
-### Elecciones forales
+### Elecciones forales
 
 Martes 03 de abril del año 1979 | 03/04/1979
 
