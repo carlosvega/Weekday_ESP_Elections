@@ -2,8 +2,7 @@
   Visualization available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
 </p>
 
-![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
-
+<iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_pie_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
 
 # WeekdaySpanishElections
 
@@ -371,3 +370,5 @@ Domingo 27 de mayo del año 2007 | 27/05/2007
 Domingo 22 de mayo del año 2011 | 22/05/2011
 
 Domingo 24 de mayo del año 2015 | 24/05/2015
+
+![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
