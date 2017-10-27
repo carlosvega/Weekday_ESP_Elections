@@ -1,5 +1,8 @@
 <p align="right">
   Visualization also available at: <a href="https://carlosvega.github.io/Weekday_ESP_Elections/">https://carlosvega.github.io/Weekday_ESP_Elections/</a>
+</p>
+
+<p align="right">
   Visualization also available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
 </p>
 
