@@ -2,7 +2,8 @@
   Visualization available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
 </p>
 
-<iframe src="http://research.cvega.es/elections/" width="640" height="480" style="display:block; margin: 0 auto;">&nbsp;</iframe>
+![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
+
 
 # WeekdaySpanishElections
 
