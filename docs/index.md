@@ -7,7 +7,7 @@
 # Weekday Stats about Spanish Elections
 
 * Source data: [Wikipedia: Anexo:Elecciones en España](https://es.wikipedia.org/wiki/Anexo:Elecciones_en_Espa%C3%B1a)
-* [Processed data](https://github.com/carlosvega/Weekday_ESP_Elections/blob/master/dates.txt) 
+* [Processed data](https://github.com/carlosvega/Weekday_ESP_Elections/blob/master/dates.txt)
 
 ```
   3 Lunes
@@ -16,7 +16,7 @@
   8 Martes
   9 Jueves
  15 Miércoles
-110 Domingo 
+110 Domingo
 ```
 
 # Clone the repository
@@ -27,7 +27,7 @@
 git clone https://github.com/carlosvega/Weekday_ESP_Elections.git esp_elections
 cd esp_elections
 pip install virtualenv
-virtualenv .env
+virtualenv -p python3
 source activate .env/bin/activate
 pip3 install -r requirements.txt
 jupyter notebook #and then open the file Charts.ipynb
@@ -47,7 +47,7 @@ jupyter notebook #and then open the file Charts.ipynb
 
 1822 - ?
 
-## Reinado de Isabel II 
+## Reinado de Isabel II
 
 Lunes 30 de Junio del año 1834 | 30/6/1834
 
@@ -105,7 +105,7 @@ Sábado 24 de agosto del año 1872 | 24/8/1872
 
 Sábado 10 de mayo del año 1873 | 10/5/1873
 
-## Restauración borbónica 
+## Restauración borbónica
 
 Jueves 20 de enero del año 1876 | 20/1/1876
 
