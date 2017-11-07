@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+title: Spanish Elections Weekday Info
+description: Some charts depicting the frequency of elections and referendums per weekday.
+show_downloads: true
