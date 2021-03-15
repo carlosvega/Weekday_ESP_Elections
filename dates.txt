@@ -87,6 +87,7 @@ Domingo 13 de junio del año 1999 | 13/06/1999
 Domingo 13 de junio del año 2004 | 13/06/2004
 Domingo 07 de junio del año 2009 | 07/06/2009
 Domingo 25 de mayo del año 2014 | 25/05/2014
+Domingo 26 de mayo del año 2019 | 26/05/2019
 ### Elecciones generales
 Miércoles 15 de junio del año 1977 | 15/06/1977
 Jueves 01 de marzo del año 1979 | 01/03/1979
@@ -101,6 +102,8 @@ Domingo 09 de marzo del año 2008 | 09/03/2008
 Domingo 20 de noviembre del año 2011 | 20/11/2011
 Domingo 20 de diciembre del año 2015 | 20/12/2015
 Domingo 26 de junio del año 2016 | 26/06/2016
+Domingo 28 de abril del año 2019 | 28/04/2019
+Domingo 10 de noviembre del año 2019 | 10/11/2019
 ### Elecciones autonómicas
 Domingo 09 de marzo del año 1980 | 09/03/1980
 Jueves 20 de marzo del año 1980 | 20/03/1980
@@ -151,6 +154,12 @@ Domingo 22 de marzo del año 2015 | 22/03/2015
 Domingo 24 de mayo del año 2015 | 24/05/2015
 Domingo 27 de septiembre del año 2015 | 27/09/2015
 Domingo 25 de septiembre del año 2016 | 25/09/2016
+Jueves 21 de diciembre del año 2017 | 21/12/2017
+Domingo 2 de diciembre del año 2018 | 02/12/2018
+Domingo 28 de abril del año 2019 | 28/04/2019
+Domingo 26 de mayo del año 2019 | 26/05/2019
+Domingo 12 de julio del año 2020 | 12/07/2020
+Domingo 14 de febrero del año 2021 | 14/02/2021
 ### Elecciones municipales
 Martes 03 de abril del año 1979 | 03/04/1979
 Domingo 08 de mayo del año 1983 | 08/05/1983
@@ -162,6 +171,7 @@ Domingo 25 de mayo del año 2003 | 25/05/2003
 Domingo 27 de mayo del año 2007 | 27/05/2007
 Domingo 22 de mayo del año 2011 | 22/05/2011
 Domingo 24 de mayo del año 2015 | 24/05/2015
+Domingo 26 de mayo del año 2019 | 26/05/2019
 ### Elecciones forales
 Martes 03 de abril del año 1979 | 03/04/1979
 Martes 03 de abril del año 1979 | 03/04/1979
@@ -174,3 +184,4 @@ Domingo 25 de mayo del año 2003 | 25/05/2003
 Domingo 27 de mayo del año 2007 | 27/05/2007
 Domingo 22 de mayo del año 2011 | 22/05/2011
 Domingo 24 de mayo del año 2015 | 24/05/2015
+Domingo 26 de mayo del año 2019 | 26/05/2019

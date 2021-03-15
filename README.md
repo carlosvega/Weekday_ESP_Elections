@@ -2,10 +2,6 @@
   Visualization also available at: <a href="https://carlosvega.github.io/Weekday_ESP_Elections/">https://carlosvega.github.io/Weekday_ESP_Elections/</a>
 </p>
 
-<p align="right">
-  Visualization also available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
-</p>
-
 ![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
 
 # Weekday Stats about Spanish Elections
@@ -32,8 +28,8 @@
 git clone https://github.com/carlosvega/Weekday_ESP_Elections.git esp_elections
 cd esp_elections
 pip install virtualenv
-virtualenv -p python3
-source activate .env/bin/activate
+virtualenv .env -p `which python3`
+source .env/bin/activate
 pip3 install -r requirements.txt
 jupyter notebook #and then open the file Charts.ipynb
 ```

@@ -1,8 +1,6 @@
-<p align="right">
-  Visualization available at: <a href="http://research.cvega.es/elections/">http://research.cvega.es/elections/</a>
-</p>
-
 <iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_pie_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
+
+<iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_table.html" width="640" height="1000" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
 
 # Weekday Stats about Spanish Elections
 
@@ -35,7 +33,7 @@ jupyter notebook #and then open the file Charts.ipynb
 
 # Data
 
-## Cortes de Cádiz
+## Cortes de Cádiz
 
 1810 - ?
 
@@ -47,7 +45,7 @@ jupyter notebook #and then open the file Charts.ipynb
 
 1822 - ?
 
-## Reinado de Isabel II
+## Reinado de Isabel II 
 
 Lunes 30 de Junio del año 1834 | 30/6/1834
 
@@ -91,7 +89,7 @@ Martes 22 de noviembre del año 1864 | 22/11/1864
 
 Viernes 1 de diciembre del año 1865 | 1/12/1865
 
-Domingo 10 de marzo	del año 1867 | 10/3/1867
+Domingo 10 de marzo del año 1867 | 10/3/1867
 
 ## Sexenio democrático
 
@@ -105,7 +103,7 @@ Sábado 24 de agosto del año 1872 | 24/8/1872
 
 Sábado 10 de mayo del año 1873 | 10/5/1873
 
-## Restauración borbónica
+## Restauración borbónica 
 
 Jueves 20 de enero del año 1876 | 20/1/1876
 
@@ -197,7 +195,7 @@ Domingo 18 de junio del año 2006 | 18/06/2006
 
 Domingo 18 de febrero del año 2007 | 18/02/2007
 
-### Parlamento Europeo
+### Parlamento Europeo
 
 Miércoles 10 de junio del año 1987 | 10/06/1987
 
@@ -213,7 +211,9 @@ Domingo 07 de junio del año 2009 | 07/06/2009
 
 Domingo 25 de mayo del año 2014 | 25/05/2014
 
-### Elecciones generales
+Domingo 26 de mayo del año 2019 | 26/05/2019
+
+### Elecciones generales
 
 Miércoles 15 de junio del año 1977 | 15/06/1977
 
@@ -241,7 +241,11 @@ Domingo 20 de diciembre del año 2015 | 20/12/2015
 
 Domingo 26 de junio del año 2016 | 26/06/2016
 
-### Elecciones autonómicas
+Domingo 28 de abril del año 2019 | 28/04/2019
+
+Domingo 10 de noviembre del año 2019 | 10/11/2019
+
+### Elecciones autonómicas
 
 Domingo 09 de marzo del año 1980 | 09/03/1980
 
@@ -341,6 +345,18 @@ Domingo 27 de septiembre del año 2015 | 27/09/2015
 
 Domingo 25 de septiembre del año 2016 | 25/09/2016
 
+Jueves 21 de diciembre del año 2017 | 21/12/2017
+
+Domingo 2 de diciembre del año 2018 | 02/12/2018
+
+Domingo 28 de abril del año 2019 | 28/04/2019
+
+Domingo 26 de mayo del año 2019 | 26/05/2019
+
+Domingo 12 de julio del año 2020 | 12/07/2020
+
+Domingo 14 de febrero del año 2021 | 14/02/2021
+
 ### Elecciones municipales
 
 Martes 03 de abril del año 1979 | 03/04/1979
@@ -363,7 +379,9 @@ Domingo 22 de mayo del año 2011 | 22/05/2011
 
 Domingo 24 de mayo del año 2015 | 24/05/2015
 
-### Elecciones forales
+Domingo 26 de mayo del año 2019 | 26/05/2019
+
+### Elecciones forales
 
 Martes 03 de abril del año 1979 | 03/04/1979
 
@@ -386,5 +404,7 @@ Domingo 27 de mayo del año 2007 | 27/05/2007
 Domingo 22 de mayo del año 2011 | 22/05/2011
 
 Domingo 24 de mayo del año 2015 | 24/05/2015
+
+Domingo 26 de mayo del año 2019 | 26/05/2019
 
 ![Estadística Global](https://github.com/carlosvega/Weekday_ESP_Elections/raw/master/total.png)
