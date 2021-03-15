@@ -5,16 +5,17 @@
 # Weekday Stats about Spanish Elections
 
 * Source data: [Wikipedia: Anexo:Elecciones en España](https://es.wikipedia.org/wiki/Anexo:Elecciones_en_Espa%C3%B1a)
-* [Processed data](https://github.com/carlosvega/Weekday_ESP_Elections/blob/master/dates.txt)
+* [Elections Data](https://github.com/carlosvega/Weekday_ESP_Elections/blob/master/dates.txt)
+* * [Processed dates](https://github.com/carlosvega/Weekday_ESP_Elections/processed_dates.csv)
 
 ```
-  3 Lunes
-  6 Viernes
-  7 Sábado
-  8 Martes
-  9 Jueves
- 15 Miércoles
-110 Domingo
+  7 Martes
+  9 Sábado
+ 11 Jueves
+ 11 Viernes
+ 12 Miércoles
+ 12 Lunes
+ 73 Domingo
 ```
 
 # Clone the repository
