@@ -1,6 +1,6 @@
 <iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_pie_chart.html" width="640" height="480" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
 
-<iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_table.html" width="640" height="1000" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
+<iframe src="https://carlosvega.github.io/Weekday_ESP_Elections/styled_table.html" width="640" height="500" style="display:block; margin: 0 auto;" frameBorder="0">&nbsp;</iframe>
 
 # Weekday Stats about Spanish Elections
 
