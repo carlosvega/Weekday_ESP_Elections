@@ -3,7 +3,7 @@ argon2-cffi==20.1.0
 async-generator==1.10
 bash-kernel==0.7.1
 bleach==3.3.0
-certifi==2017.7.27.1
+certifi==2022.12.7
 cffi==1.14.5
 chardet==3.0.4
 cycler==0.10.0
